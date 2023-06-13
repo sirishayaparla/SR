@@ -13,6 +13,7 @@ public class Test1 {
 	@Test(groups="regression")
 	public void test2() {
 		System.out.println("test2 method is excuted");
+		System.out.println("merging purpose");
 	}
 
 }
