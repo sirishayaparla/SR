@@ -15,6 +15,7 @@ public class Example1 {
 	public void exa() {
 		System.out.println("Example1 class of exa method excuted");
 		System.out.println("branch created");
+		
 	}
 
 }
