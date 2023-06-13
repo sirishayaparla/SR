@@ -8,6 +8,7 @@ public class Example2 {
 	@Test(groups="regression")
 	public void testmethod() {
 		System.out.println("testmethod is excuted");
+		System.out.println("Push operations");
 	}
 
 }
